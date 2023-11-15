@@ -1,3 +1,13 @@
+# Getting Started
+
+```
+npm i -g windows-build-tools
+npm i
+npm start
+```
+
+# Below is the project on which we based
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
