@@ -1,7 +1,6 @@
 # Getting Started
 
 ```
-npm i -g windows-build-tools
 npm i
 npm start
 ```
